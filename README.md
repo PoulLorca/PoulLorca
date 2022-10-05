@@ -7,7 +7,7 @@
 
 - 👨‍💻 Some of my codes are in [https://codepen.io/poullorca](https://codepen.io/poullorca)
 
-- 📝 I regularly write tips on [https://twitter.com/LorcaPoul_dev](https://twitter.com/LorcaPoul_dev)
+- 📝 I regularly write tips on [https://twitter.com/LorcaPoul_dev](https://twitter.com/PoulLorca)
 
 - 💬 Ask me about **Python, JS, Java, PHP**
 
