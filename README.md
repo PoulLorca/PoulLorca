@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Poul Lorca</h1>
 <h3 align="center">A professional programmer from Chile</h3>
 
-<p align="left"> <a href="https://twitter.com/lorcapoul_dev" target="blank"><img src="https://img.shields.io/twitter/follow/lorcapoul_dev?logo=twitter&style=for-the-badge" alt="lorcapoul_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/poullorca" target="blank"><img src="https://img.shields.io/twitter/follow/poullorca?logo=twitter&style=for-the-badge" alt="poullorca" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced Angular**
 
 - 👨‍💻 Some of my codes are in [https://codepen.io/poullorca](https://codepen.io/poullorca)
 
-- 📝 I regularly write tips on [https://twitter.com/LorcaPoul_dev](https://twitter.com/PoulLorca)
+- 📝 I regularly write tips on [https://twitter.com/PoulLorca](https://twitter.com/PoulLorca)
 
 - 💬 Ask me about **Python, JS, Java, PHP**
 
