@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poul Lorca</h1>
 <h3 align="center">A professional programmer from Chile</h3>
 
-<p align="left"> <a href="https://twitter.com/poullorca" target="blank"><img src="https://img.shields.io/twitter/follow/poullorca?logo=twitter&style=for-the-badge" alt="poullorca" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PoulLorca" target="blank"><img src="https://img.shields.io/twitter/follow/PoulLorca?logo=twitter&style=for-the-badge" alt="PoulLorca" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced Angular**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/poullorca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="poullorca" height="30" width="40" /></a>
-<a href="https://twitter.com/lorcapoul_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lorcapoul_dev" height="30" width="40" /></a>
+<a href="https://twitter.com/PoulLorca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lorcapoul_dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
